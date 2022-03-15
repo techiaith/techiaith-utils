@@ -1,0 +1,4 @@
+click==8.0.3
+sacremoses==0.0.46
+requests==2.26.0
+translate-toolkit[recommended]==3.5.1
